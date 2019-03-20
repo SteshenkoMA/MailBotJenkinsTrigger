@@ -1,0 +1,254 @@
+мар 20, 2019 10:01:06 AM mailbot.mailEngine.PropertiesInitializer setProperties
+INFO: */config/config.properties was succesfully loaded
+мар 20, 2019 10:01:06 AM mailbot.mailEngine.MailReciever setLetterSearchOptions
+INFO: Search settings were successfully done
+мар 20, 2019 10:01:06 AM mailbot.mailEngine.MailReciever connectToServer
+INFO: Successfully connected
+мар 20, 2019 10:01:06 AM mailbot.Main main
+INFO: <START 1>
+мар 20, 2019 10:01:07 AM mailbot.Main main
+INFO: <END 1>
+мар 20, 2019 10:02:07 AM mailbot.Main main
+INFO: <START 2>
+мар 20, 2019 10:02:07 AM mailbot.mailEngine.MailReciever processLetters
+INFO: “екст письма: {"request":{"jenkins":{"address":"http://tv-frm-12r2-009:8090","tasks":[{"task":"testJob"},{"task":"testJobbb"}]},"anotherRequestType":{"address":"111111","tasks":[{"task":"testJob"}]}}}—уважением,—тешенкоћаксимјлексеевич—таршийинженерпоразработкеѕјќ—бербанк(÷ј)Ѕлок"“ехнологии"ƒепартамент»“блока"—ервисы"ибезопасности”правлениеобеспечени€развити€√руппаразработки”–ћг.—анкт-ѕетербург¬н.тел.:878918615.–осси€,—анкт-ѕетербург,Ѕ÷‘аберже8
+мар 20, 2019 10:02:07 AM mailbot.mailEngine.MailReciever processLetters
+INFO: key: jenkins
+мар 20, 2019 10:02:08 AM mailbot.jenkinsEngine.JenkinsTaskTrigger triggerTasks
+INFO: job was triggered : testJob
+мар 20, 2019 10:02:10 AM mailbot.jenkinsEngine.JenkinsTaskTrigger triggerTasks
+INFO: job was triggered : testJobbb
+мар 20, 2019 10:02:10 AM mailbot.mailEngine.MailReciever processLetters
+INFO: key: anotherRequestType
+мар 20, 2019 10:02:10 AM mailbot.Main main
+INFO: <END 2>
+мар 20, 2019 10:03:10 AM mailbot.Main main
+INFO: <START 3>
+мар 20, 2019 10:03:10 AM mailbot.Main main
+INFO: <END 3>
+мар 20, 2019 10:04:10 AM mailbot.Main main
+INFO: <START 4>
+мар 20, 2019 10:04:10 AM mailbot.Main main
+INFO: <END 4>
+мар 20, 2019 10:05:10 AM mailbot.Main main
+INFO: <START 5>
+мар 20, 2019 10:05:10 AM mailbot.mailEngine.MailReciever processLetters
+INFO: “екст письма: {"request":{"jenkins":{"address":"http://tv-frm-12r2-009:8090","tasks":[{"task":"testJob"},{"task":"testJobbb"}]},"anotherRequestType":{"address":"111111","tasks":[{"task":"testJob"}]}}}—уважением,—тешенкоћаксимјлексеевич<http://addressbook.ca.sbrf.ru/home/Index?type=0&search=1676467>
+мар 20, 2019 10:05:10 AM mailbot.mailEngine.MailReciever processLetters
+INFO: key: jenkins
+мар 20, 2019 10:05:12 AM mailbot.jenkinsEngine.JenkinsTaskTrigger triggerTasks
+INFO: job was triggered : testJob
+мар 20, 2019 10:05:13 AM mailbot.jenkinsEngine.JenkinsTaskTrigger triggerTasks
+INFO: job was triggered : testJobbb
+мар 20, 2019 10:05:13 AM mailbot.mailEngine.MailReciever processLetters
+INFO: key: anotherRequestType
+мар 20, 2019 10:05:13 AM mailbot.Main main
+INFO: <END 5>
+мар 20, 2019 10:06:13 AM mailbot.Main main
+INFO: <START 6>
+мар 20, 2019 10:06:13 AM mailbot.Main main
+INFO: <END 6>
+мар 20, 2019 10:07:13 AM mailbot.Main main
+INFO: <START 7>
+мар 20, 2019 10:07:13 AM mailbot.Main main
+INFO: <END 7>
+мар 20, 2019 10:08:13 AM mailbot.Main main
+INFO: <START 8>
+мар 20, 2019 10:08:13 AM mailbot.Main main
+INFO: <END 8>
+мар 20, 2019 10:09:13 AM mailbot.Main main
+INFO: <START 9>
+мар 20, 2019 10:09:13 AM mailbot.Main main
+INFO: <END 9>
+мар 20, 2019 10:10:13 AM mailbot.Main main
+INFO: <START 10>
+мар 20, 2019 10:10:13 AM mailbot.Main main
+INFO: <END 10>
+мар 20, 2019 10:11:13 AM mailbot.Main main
+INFO: <START 11>
+мар 20, 2019 10:11:13 AM mailbot.Main main
+INFO: <END 11>
+мар 20, 2019 10:12:13 AM mailbot.Main main
+INFO: <START 12>
+мар 20, 2019 10:12:14 AM mailbot.Main main
+INFO: <END 12>
+мар 20, 2019 10:13:14 AM mailbot.Main main
+INFO: <START 13>
+мар 20, 2019 10:13:14 AM mailbot.Main main
+INFO: <END 13>
+мар 20, 2019 10:14:14 AM mailbot.Main main
+INFO: <START 14>
+мар 20, 2019 10:14:14 AM mailbot.Main main
+INFO: <END 14>
+мар 20, 2019 10:15:14 AM mailbot.Main main
+INFO: <START 15>
+мар 20, 2019 10:15:14 AM mailbot.Main main
+INFO: <END 15>
+мар 20, 2019 10:16:14 AM mailbot.Main main
+INFO: <START 16>
+мар 20, 2019 10:16:14 AM mailbot.Main main
+INFO: <END 16>
+мар 20, 2019 10:17:14 AM mailbot.Main main
+INFO: <START 17>
+мар 20, 2019 10:17:14 AM mailbot.Main main
+INFO: <END 17>
+мар 20, 2019 10:18:14 AM mailbot.Main main
+INFO: <START 18>
+мар 20, 2019 10:18:14 AM mailbot.Main main
+INFO: <END 18>
+мар 20, 2019 10:19:14 AM mailbot.Main main
+INFO: <START 19>
+мар 20, 2019 10:19:14 AM mailbot.Main main
+INFO: <END 19>
+мар 20, 2019 10:20:14 AM mailbot.Main main
+INFO: <START 20>
+мар 20, 2019 10:20:14 AM mailbot.Main main
+INFO: <END 20>
+мар 20, 2019 10:21:14 AM mailbot.Main main
+INFO: <START 21>
+мар 20, 2019 10:21:14 AM mailbot.Main main
+INFO: <END 21>
+мар 20, 2019 10:22:14 AM mailbot.Main main
+INFO: <START 22>
+мар 20, 2019 10:22:14 AM mailbot.Main main
+INFO: <END 22>
+мар 20, 2019 10:23:14 AM mailbot.Main main
+INFO: <START 23>
+мар 20, 2019 10:23:14 AM mailbot.Main main
+INFO: <END 23>
+мар 20, 2019 10:24:14 AM mailbot.Main main
+INFO: <START 24>
+мар 20, 2019 10:24:14 AM mailbot.Main main
+INFO: <END 24>
+мар 20, 2019 10:25:14 AM mailbot.Main main
+INFO: <START 25>
+мар 20, 2019 10:25:14 AM mailbot.Main main
+INFO: <END 25>
+мар 20, 2019 10:26:14 AM mailbot.Main main
+INFO: <START 26>
+мар 20, 2019 10:26:14 AM mailbot.Main main
+INFO: <END 26>
+мар 20, 2019 10:27:14 AM mailbot.Main main
+INFO: <START 27>
+мар 20, 2019 10:27:14 AM mailbot.Main main
+INFO: <END 27>
+мар 20, 2019 10:28:14 AM mailbot.Main main
+INFO: <START 28>
+мар 20, 2019 10:28:14 AM mailbot.Main main
+INFO: <END 28>
+мар 20, 2019 10:29:14 AM mailbot.Main main
+INFO: <START 29>
+мар 20, 2019 10:29:15 AM mailbot.Main main
+INFO: <END 29>
+мар 20, 2019 10:30:15 AM mailbot.Main main
+INFO: <START 30>
+мар 20, 2019 10:30:15 AM mailbot.Main main
+INFO: <END 30>
+мар 20, 2019 10:31:15 AM mailbot.Main main
+INFO: <START 31>
+мар 20, 2019 10:31:15 AM mailbot.Main main
+INFO: <END 31>
+мар 20, 2019 10:32:15 AM mailbot.Main main
+INFO: <START 32>
+мар 20, 2019 10:32:15 AM mailbot.Main main
+INFO: <END 32>
+мар 20, 2019 10:33:15 AM mailbot.Main main
+INFO: <START 33>
+мар 20, 2019 10:33:15 AM mailbot.Main main
+INFO: <END 33>
+мар 20, 2019 10:34:15 AM mailbot.Main main
+INFO: <START 34>
+мар 20, 2019 10:34:15 AM mailbot.Main main
+INFO: <END 34>
+мар 20, 2019 10:35:15 AM mailbot.Main main
+INFO: <START 35>
+мар 20, 2019 10:35:15 AM mailbot.Main main
+INFO: <END 35>
+мар 20, 2019 10:36:15 AM mailbot.Main main
+INFO: <START 36>
+мар 20, 2019 10:36:15 AM mailbot.Main main
+INFO: <END 36>
+мар 20, 2019 10:37:15 AM mailbot.Main main
+INFO: <START 37>
+мар 20, 2019 10:37:15 AM mailbot.Main main
+INFO: <END 37>
+мар 20, 2019 10:38:15 AM mailbot.Main main
+INFO: <START 38>
+мар 20, 2019 10:38:15 AM mailbot.Main main
+INFO: <END 38>
+мар 20, 2019 10:39:15 AM mailbot.Main main
+INFO: <START 39>
+мар 20, 2019 10:39:15 AM mailbot.Main main
+INFO: <END 39>
+мар 20, 2019 10:40:15 AM mailbot.Main main
+INFO: <START 40>
+мар 20, 2019 10:40:15 AM mailbot.Main main
+INFO: <END 40>
+мар 20, 2019 10:41:15 AM mailbot.Main main
+INFO: <START 41>
+мар 20, 2019 10:41:15 AM mailbot.Main main
+INFO: <END 41>
+мар 20, 2019 10:42:15 AM mailbot.Main main
+INFO: <START 42>
+мар 20, 2019 10:42:15 AM mailbot.Main main
+INFO: <END 42>
+мар 20, 2019 10:43:15 AM mailbot.Main main
+INFO: <START 43>
+мар 20, 2019 10:43:15 AM mailbot.Main main
+INFO: <END 43>
+мар 20, 2019 10:44:15 AM mailbot.Main main
+INFO: <START 44>
+мар 20, 2019 10:44:15 AM mailbot.Main main
+INFO: <END 44>
+мар 20, 2019 10:45:15 AM mailbot.Main main
+INFO: <START 45>
+мар 20, 2019 10:45:16 AM mailbot.Main main
+INFO: <END 45>
+мар 20, 2019 10:46:16 AM mailbot.Main main
+INFO: <START 46>
+мар 20, 2019 10:46:16 AM mailbot.Main main
+INFO: <END 46>
+мар 20, 2019 10:47:16 AM mailbot.Main main
+INFO: <START 47>
+мар 20, 2019 10:47:16 AM mailbot.Main main
+INFO: <END 47>
+мар 20, 2019 10:48:16 AM mailbot.Main main
+INFO: <START 48>
+мар 20, 2019 10:48:16 AM mailbot.Main main
+INFO: <END 48>
+мар 20, 2019 10:49:16 AM mailbot.Main main
+INFO: <START 49>
+мар 20, 2019 10:49:16 AM mailbot.Main main
+INFO: <END 49>
+мар 20, 2019 10:50:16 AM mailbot.Main main
+INFO: <START 50>
+мар 20, 2019 10:50:16 AM mailbot.Main main
+INFO: <END 50>
+мар 20, 2019 10:51:16 AM mailbot.Main main
+INFO: <START 51>
+мар 20, 2019 10:51:16 AM mailbot.Main main
+INFO: <END 51>
+мар 20, 2019 10:52:16 AM mailbot.Main main
+INFO: <START 52>
+мар 20, 2019 10:52:16 AM mailbot.Main main
+INFO: <END 52>
+мар 20, 2019 10:53:16 AM mailbot.Main main
+INFO: <START 53>
+мар 20, 2019 10:53:16 AM mailbot.Main main
+INFO: <END 53>
+мар 20, 2019 10:54:16 AM mailbot.Main main
+INFO: <START 54>
+мар 20, 2019 10:54:16 AM mailbot.Main main
+INFO: <END 54>
+мар 20, 2019 2:34:05 PM mailbot.mailEngine.PropertiesInitializer setProperties
+INFO: */config/config.properties was succesfully loaded
+мар 20, 2019 2:34:05 PM mailbot.mailEngine.MailReciever setLetterSearchOptions
+INFO: Search settings were successfully done
+мар 20, 2019 2:34:06 PM mailbot.mailEngine.MailReciever connectToServer
+INFO: Successfully connected
+мар 20, 2019 2:34:06 PM mailbot.Main main
+INFO: <START 1>
+мар 20, 2019 2:34:06 PM mailbot.mailEngine.MailReciever processLetters
+INFO: ќшибка при чтении вход€щий писем microsoft.exchange.webservices.data.core.exception.service.remote.ServiceRequestException: The request failed. The request failed. The remote server returned an error: (401)Unauthorized
+мар 20, 2019 2:34:06 PM mailbot.Main main
+INFO: <END 1>

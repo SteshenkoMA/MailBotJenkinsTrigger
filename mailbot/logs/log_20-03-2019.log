@@ -1,0 +1,36 @@
+мар 20, 2019 9:52:45 AM mailbot.mailEngine.PropertiesInitializer setProperties
+INFO: */config/config.properties was succesfully loaded
+мар 20, 2019 9:52:45 AM mailbot.mailEngine.MailReciever connectToServer
+INFO: Successfully connected
+мар 20, 2019 9:52:45 AM mailbot.Main main
+INFO: <START 1>
+мар 20, 2019 9:52:46 AM mailbot.Main main
+INFO: <END 1>
+мар 20, 2019 9:53:46 AM mailbot.Main main
+INFO: <START 2>
+мар 20, 2019 9:53:46 AM mailbot.Main main
+INFO: <END 2>
+мар 20, 2019 9:54:46 AM mailbot.Main main
+INFO: <START 3>
+мар 20, 2019 9:54:46 AM mailbot.Main main
+INFO: <END 3>
+мар 20, 2019 9:55:46 AM mailbot.Main main
+INFO: <START 4>
+мар 20, 2019 9:55:46 AM mailbot.Main main
+INFO: <END 4>
+мар 20, 2019 9:56:46 AM mailbot.Main main
+INFO: <START 5>
+мар 20, 2019 9:56:46 AM mailbot.Main main
+INFO: <END 5>
+мар 20, 2019 9:57:46 AM mailbot.Main main
+INFO: <START 6>
+мар 20, 2019 9:57:46 AM mailbot.Main main
+INFO: <END 6>
+мар 20, 2019 9:58:46 AM mailbot.Main main
+INFO: <START 7>
+мар 20, 2019 9:58:46 AM mailbot.Main main
+INFO: <END 7>
+мар 20, 2019 9:59:46 AM mailbot.Main main
+INFO: <START 8>
+мар 20, 2019 9:59:46 AM mailbot.Main main
+INFO: <END 8>
