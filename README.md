@@ -7,5 +7,8 @@ A program that:
 4) if request contains Jenkins tasks, it triggers these tasks at Jenkins server
 
 Main libs:
-а) ews-java-api
-б) jenkins-cli
+
+а) ews-java-api    
+б) jenkins-cli    
+
+More info read in "MailBot-v1.docx" (ru)
