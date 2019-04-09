@@ -12,3 +12,5 @@ Main libs:
 б) jenkins-cli    
 
 More info read in "MailBot-v1.docx" (ru)
+
+![diagram](https://user-images.githubusercontent.com/13558216/55802065-1dc2f180-5ae0-11e9-87ba-bfcad95b3eb4.png)
